@@ -21,7 +21,6 @@ I work across frontend, backend, mobile, and product delivery to turn scoped pro
 - **FormPilot AI** — AI-assisted intake and workflow product, packaged as a flagship private case study.
 - **Resumi** — private resume-focused product work for creating and presenting polished professional profiles.
 - **Invoicery** — private client-management and invoicing workflow product for business operations.
-- **Crave / Tek2D product work** — production experience across ordering flows, merchant dashboards, CMS-driven builds, and delivery.
 
 Some product work is private, so I discuss it through sanitized walkthroughs, case-study notes, and controlled demos rather than public source links.
 
