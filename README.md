@@ -18,9 +18,9 @@ I work across frontend, backend, mobile, and product delivery to turn scoped pro
 
 ## Work I can walk through
 
-- **FormPilot AI** — AI-assisted intake and workflow product, packaged as a flagship private case study.
-- **Resumi** — private resume-focused product work for creating and presenting polished professional profiles.
-- **Invoicery** — private client-management and invoicing workflow product for business operations.
+- **[FormPilot AI](https://mumar.dev/case/formpilot)** — AI-assisted intake and workflow product, packaged as a flagship private case study.
+- **[Resumi](https://mumar.dev/case/resumi)** — private resume-focused product work for creating and presenting polished professional profiles.
+- **[Invoicery](https://mumar.dev/case/invoicery)** — private client-management and invoicing workflow product for business operations.
 
 Some product work is private, so I discuss it through sanitized walkthroughs, case-study notes, and controlled demos rather than public source links.
 
@@ -34,5 +34,6 @@ I am most interested in working with startup founders and product teams building
 
 ## Links
 
+- **Portfolio & case studies:** [mumar.dev](https://mumar.dev)
 - **LinkedIn:** [linkedin.com/in/mumar20](https://www.linkedin.com/in/mumar20/)
 - **Book intro call:** [cal.com/umar-farooq-gqime0](https://cal.com/umar-farooq-gqime0)
