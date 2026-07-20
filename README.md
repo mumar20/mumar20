@@ -24,6 +24,5 @@ I work hands-on across web, mobile, backend, integrations, and practical AI. I h
 ## Links
 
 - **Portfolio:** [mumar.dev](https://mumar.dev?utm_source=github)
-- **Upwork:** [Hire me on Upwork](https://www.upwork.com/freelancers/~01fd315cf120ba92ec)
 - **LinkedIn:** [linkedin.com/in/mumar20](https://www.linkedin.com/in/mumar20/)
 - **Intro call:** [Book a 30-minute intro call](https://cal.com/umar-farooq-gqime0/30min?utm_source=github&utm_medium=profile&utm_campaign=intro_call&utm_content=readme)
