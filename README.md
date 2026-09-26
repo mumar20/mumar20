@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Umar Farooq — restaurant ordering, POS integrations and SaaS engineering" />
+  <img src="./assets/banner.png" alt="Restaurant software. Built to work together. Online ordering, merchant dashboards, mobile apps, POS and Stripe integrations." />
 </p>
 
 # Umar Farooq
