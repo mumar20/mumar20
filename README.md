@@ -1,31 +1,39 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Umar Farooq — Senior Full-Stack Product Engineer building and modernizing production software" />
+  <img src="./assets/banner.png" alt="Umar Farooq — restaurant ordering, POS integrations and SaaS engineering" />
 </p>
 
 # Umar Farooq
 
-**Product engineer building ordering, operations, and practical AI systems with Next.js, Node.js, and Flutter.**
+**Restaurant ordering, POS integrations & SaaS engineering**
 
-I work hands-on across customer ordering, merchant operations, integrations, web, mobile, backend services, and focused AI workflows. Private-source and employer work links to verified case studies with the contribution and confidentiality boundary stated beside each claim.
+I build and repair ordering apps, merchant dashboards, POS integrations and practical AI features for restaurant software teams, and websites with online ordering for restaurant owners.
 
-## Selected product work
+At Crave since May 2020, I progressed to Director of Engineering while remaining hands-on. My work spans customer ordering, merchant operations, mobile apps, shared services and Square/Clover integration engineering.
 
-- **[CraveUp](https://mumar.dev/case/craveup-restaurant-platform?utm_source=github)** — named employer platform; my contribution spans customer ordering, merchant operations, React Native staff workflows, and shared Node.js services. Source is private.
-- **[Multi-Location Restaurant Platform](https://mumar.dev/case/restaurant-ordering-platform?utm_source=github)** — anonymized client delivery under NDA; my contribution spans Flutter ordering, web and operations surfaces, Express services, and provider integrations. Source is unavailable under NDA.
-- **[AI Operations Copilot](https://mumar.dev/case/ai-ops-copilot?utm_source=github)** — anonymized client delivery under NDA; I led retrieval and agent-workflow surfaces over documents, PDFs, and email, with point-of-sale context kept in a separate integration layer. Source is unavailable under NDA.
-- **[Quick Food](https://mumar.dev/case/quick-food?utm_source=github)** — owned live ordering demo with checkout hardening, deployment repair, rate limiting, and responsive QA. [Live demo](https://quick-food.mumar.dev/)
-- **[Resumi](https://mumar.dev/case/resumi?utm_source=github)** — live AI-assisted resume product; my contribution spans Vercel AI SDK workflows, structured editing, live preview, sharing, export, and Stripe-backed billing gates. [Live demo](https://resumi.mumar.dev/)
-- **[FormPilot](https://mumar.dev/case/formpilot?utm_source=github)** — owned live service-business intake product; submissions are persisted before asynchronous, schema-validated OpenAI Responses API extraction. [Live demo](https://formpilot.mumar.dev/)
-- **[StudyAI](https://mumar.dev/case/study-ai?utm_source=github)** — public-source product-leadership proof; I owned product direction, acceptance criteria, and review. Engineering implementation was completed by the project team. [Source](https://github.com/mumar20/studyai)
+## Selected restaurant work
 
-[View all 12 case studies →](https://mumar.dev/work?utm_source=github)
+- **[CraveUp](https://mumar.dev/case/craveup-restaurant-platform?utm_source=github)** — employer contribution across customer ordering, merchant dashboards, React Native staff workflows, shared Node.js services and Square/Clover integrations. Team-built platform; private source.
+- **[Multi-Location Restaurant Ordering](https://mumar.dev/case/restaurant-ordering-platform?utm_source=github)** — client delivery through Crave; brand withheld. Flutter, web/admin, Express services, loyalty and provider webhooks. Crave publicly describes the engagement as a guest app for an 80-location restaurant brand; my case explains my specific contribution.
+- **[Nomly — AI Operations Copilot](https://mumar.dev/case/ai-ops-copilot?utm_source=github)** — [Crave's AI assistant for restaurant operators](https://nomly.ai/). I helped build the 2025 foundation for document/email retrieval, agent workflows and voice. POS context uses a separate integration layer. The product has evolved since; the case is scoped to that foundation.
+- **[Quick Food](https://mumar.dev/case/quick-food?utm_source=github)** — owned ordering sandbox. My contribution includes product direction, checkout hardening, deployment fixes and responsive QA. [Try the sandbox](https://quick-food.mumar.dev/); it is not a client-results claim.
 
-## Core technologies
+Most professional source is private. The case studies explain my role and show public/demo captures or sanitized diagrams, with their evidence boundaries.
 
-`React` `Next.js` `TypeScript` `Node.js` `PostgreSQL` `Flutter` `React Native` `OpenAI`
+## Open source
 
-## Links
+I contribute to Crave's open-source restaurant tooling:
 
-- **Portfolio:** [mumar.dev](https://mumar.dev?utm_source=github)
-- **LinkedIn:** [linkedin.com/in/mumar20](https://www.linkedin.com/in/mumar20/)
-- **Intro call:** [Book a 30-minute intro call](https://cal.com/umar-farooq-gqime0/30min?utm_source=github&utm_medium=profile&utm_campaign=intro_call&utm_content=readme)
+- **[Loyalty Interchange Protocol](https://github.com/craveup-oss/loyalty-interchange-protocol)** — public contributor work on restaurant loyalty interoperability.
+- **[CraveJS Storefront SDK for Dart](https://github.com/craveup-oss/cravejs-storefront-sdk-dart)** — public contributor work on the Dart storefront SDK.
+
+These are organization projects; I do not claim sole authorship. **[StudyAI](https://github.com/mumar20/studyai)** is separate product-leadership proof: I owned direction, acceptance criteria and review; the project team implemented it.
+
+`Next.js` · `React` · `TypeScript` · `Node.js` · `PostgreSQL` · `Flutter` · `React Native`
+
+## Work with me
+
+For an unclear production problem, start with a paid read-only audit and written repair plan. For a defined feature or integration, agree one milestone with acceptance checks, relevant tests and a reviewable handoff. Remote from Pakistan (UTC+5), with availability and overlap agreed for each project.
+
+[Selected work](https://mumar.dev/work?utm_source=github) · [LinkedIn](https://www.linkedin.com/in/mumar20/) · [Discuss a project](https://mumar.dev/?utm_source=github#contact)
+
+For non-restaurant websites and commerce, [Hassan leads that work](https://mumar.dev/business-websites?utm_source=github).
