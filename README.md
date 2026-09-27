@@ -10,6 +10,15 @@ I build and repair ordering apps, merchant dashboards, POS integrations and prac
 
 At Crave since May 2020, I progressed to Director of Engineering while remaining hands-on. My work spans customer ordering, merchant operations, mobile apps, shared services and Square/Clover integration engineering.
 
+## Open source
+
+Public code you can inspect, with my contribution history alongside each project:
+
+- **[Loyalty Interchange Protocol](https://github.com/craveup-oss/loyalty-interchange-protocol)** — restaurant loyalty APIs, checkout and reward lifecycles, and integration tooling. [My contributions](https://github.com/craveup-oss/loyalty-interchange-protocol/commits/main/?author=mumar20) · [Tenant-isolation test example](https://github.com/craveup-oss/loyalty-interchange-protocol/commit/adc29c278686e3eec933bbaef13e7047b175d61b).
+- **[CraveJS Storefront SDK for Dart](https://github.com/craveup-oss/cravejs-storefront-sdk-dart)** — typed building blocks for Flutter ordering apps, including carts, customer sessions and checkout handoffs. [My contributions](https://github.com/craveup-oss/cravejs-storefront-sdk-dart/commits/main/?author=mumar20) · [Cart lifecycle example](https://github.com/craveup-oss/cravejs-storefront-sdk-dart/commit/6ff24cc175bdd052b58bdee4cc5bdfc8443ca029).
+
+These are Crave organization projects built with other contributors. **[StudyAI](https://github.com/mumar20/studyai)** is separate product-leadership proof: I owned direction, acceptance criteria and review; the project team implemented it.
+
 ## Selected restaurant work
 
 - **[CraveUp](https://mumar.dev/case/craveup-restaurant-platform?utm_source=github)** — employer contribution across customer ordering, merchant dashboards, React Native staff workflows, shared Node.js services and Square/Clover integrations. Team-built platform; private source.
@@ -18,15 +27,6 @@ At Crave since May 2020, I progressed to Director of Engineering while remaining
 - **[Quick Food](https://mumar.dev/case/quick-food?utm_source=github)** — owned ordering sandbox. My contribution includes product direction, checkout hardening, deployment fixes and responsive QA. [Try the sandbox](https://quick-food.mumar.dev/); it is not a client-results claim.
 
 Most professional source is private. The case studies explain my role and show public/demo captures or sanitized diagrams, with their evidence boundaries.
-
-## Open source
-
-I contribute to Crave's open-source restaurant tooling:
-
-- **[Loyalty Interchange Protocol](https://github.com/craveup-oss/loyalty-interchange-protocol)** — public contributor work on restaurant loyalty interoperability.
-- **[CraveJS Storefront SDK for Dart](https://github.com/craveup-oss/cravejs-storefront-sdk-dart)** — public contributor work on the Dart storefront SDK.
-
-These are organization projects; I do not claim sole authorship. **[StudyAI](https://github.com/mumar20/studyai)** is separate product-leadership proof: I owned direction, acceptance criteria and review; the project team implemented it.
 
 `Next.js` · `React` · `TypeScript` · `Node.js` · `PostgreSQL` · `Flutter` · `React Native`
 
