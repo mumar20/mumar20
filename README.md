@@ -21,10 +21,11 @@ These are Crave organization projects built with other contributors. **[StudyAI]
 
 ## Selected restaurant work
 
-- **[CraveUp](https://mumar.dev/case/craveup-restaurant-platform?utm_source=github)** — employer contribution across customer ordering, merchant dashboards, React Native staff workflows, shared Node.js services and Square/Clover integrations. Team-built platform; private source.
-- **[Multi-Location Restaurant Ordering](https://mumar.dev/case/restaurant-ordering-platform?utm_source=github)** — client delivery through Crave; brand withheld. Flutter, web/admin, Express services, loyalty and provider webhooks. Crave publicly describes the engagement as a guest app for an 80-location restaurant brand; my case explains my specific contribution.
-- **[Nomly — AI Operations Copilot](https://mumar.dev/case/ai-ops-copilot?utm_source=github)** — [Crave's AI assistant for restaurant operators](https://nomly.ai/). I helped build the 2025 foundation for document/email retrieval, agent workflows and voice. POS context uses a separate integration layer. The product has evolved since; the case is scoped to that foundation.
-- **[Quick Food](https://mumar.dev/case/quick-food?utm_source=github)** — owned ordering sandbox. My contribution includes product direction, checkout hardening, deployment fixes and responsive QA. [Try the sandbox](https://quick-food.mumar.dev/); it is not a client-results claim.
+- **[Mobile ordering for an 80-location restaurant brand](https://mumar.dev/case/restaurant-ordering-platform?utm_source=github)** — at Crave, I helped build and launch the guest app, connecting ordering, payments and loyalty. The client name remains private.
+- **[CraveUp](https://mumar.dev/case/craveup-restaurant-platform?utm_source=github)** — checkout, merchant dashboards, React Native staff workflows, Star/Epson receipt printing and Square/Clover integration engineering within the Crave team.
+- **[CaterVox](https://mumar.dev/case/catervox?utm_source=github)** — at Crave, I connected the catering voice assistant to restaurant menus and catering policies, and built location setup and estimate checks. The browser sandbox saves inquiries for staff to review and quote; commercial rollout is not claimed.
+- **[Nomly](https://mumar.dev/case/ai-ops-copilot?utm_source=github)** — [Crave's AI assistant for restaurant operators](https://nomly.ai/). In 2026, I built tools that read current restaurant menus and opening hours, with location checks and clear handling of missing information. Earlier, in 2025, I built its document and email retrieval.
+- **[Quick Food](https://mumar.dev/case/quick-food?utm_source=github)** — an ordering sandbox I lead, with hands-on checkout and cart engineering. It is not a client-results claim.
 
 Most professional source is private. The case studies explain my role and show public/demo captures or sanitized diagrams, with their evidence boundaries.
 
@@ -32,7 +33,7 @@ Most professional source is private. The case studies explain my role and show p
 
 ## Work with me
 
-For an unclear production problem, start with a paid read-only audit and written repair plan. For a defined feature or integration, agree one milestone with acceptance checks, relevant tests and a reviewable handoff. Remote from Pakistan (UTC+5), with availability and overlap agreed for each project.
+We start with one feature, integration or fix and agree one testable milestone in writing. If the cause is unclear, a focused review comes first. Each milestone ends with relevant tests and a reviewable handoff. Remote from Pakistan (UTC+5), with availability and overlap agreed for each project.
 
 [Selected work](https://mumar.dev/work?utm_source=github) · [LinkedIn](https://www.linkedin.com/in/mumar20/) · [Discuss a project](https://mumar.dev/?utm_source=github#contact)
 
