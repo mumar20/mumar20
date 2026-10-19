@@ -23,8 +23,8 @@ These are Crave organization projects built with other contributors. **[StudyAI]
 
 - **[Mobile ordering for an 80-location restaurant brand](https://mumar.dev/case/restaurant-ordering-platform?utm_source=github)** — at Crave, I helped build and launch the guest app, connecting ordering, payments and loyalty. The client name remains private.
 - **[CraveUp](https://mumar.dev/case/craveup-restaurant-platform?utm_source=github)** — checkout, merchant dashboards, React Native staff workflows, Star/Epson receipt printing and Square/Clover integration engineering within the Crave team.
-- **[CaterVox](https://mumar.dev/case/catervox?utm_source=github)** — connected menus, catering policies, location setup and estimate checks. The browser sandbox saves inquiries for staff to review and quote; commercial rollout is not claimed.
-- **[Nomly](https://mumar.dev/case/ai-ops-copilot?utm_source=github)** — Crave's AI assistant for restaurant operators. In 2026, I built tools that read current restaurant menus and opening hours, with location checks and clear handling of missing information. Earlier, in 2025, I built its document and email retrieval.
+- **[CaterVox](https://mumar.dev/case/catervox?utm_source=github)** — at Crave, I connected the catering voice assistant to restaurant menus and catering policies, and built location setup and estimate checks. The browser sandbox saves inquiries for staff to review and quote; commercial rollout is not claimed.
+- **[Nomly](https://mumar.dev/case/ai-ops-copilot?utm_source=github)** — [Crave's AI assistant for restaurant operators](https://nomly.ai/). In 2026, I built tools that read current restaurant menus and opening hours, with location checks and clear handling of missing information. Earlier, in 2025, I built its document and email retrieval.
 - **[Quick Food](https://mumar.dev/case/quick-food?utm_source=github)** — an ordering sandbox I lead, with hands-on checkout and cart engineering. It is not a client-results claim.
 
 Most professional source is private. The case studies explain my role and show public/demo captures or sanitized diagrams, with their evidence boundaries.
