@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Restaurant software. Built to work together. Online ordering, merchant dashboards, mobile apps, POS and Stripe integrations." />
+  <img src="./assets/banner.png" alt="Restaurant software & AI. Built to work together. Online ordering, merchant dashboards, mobile apps, POS and Stripe integrations." />
 </p>
 
 # Umar Farooq
 
-**Restaurant ordering, POS integrations & SaaS engineering**
+**Software Engineer · Restaurant software & AI**
 
 I build and repair ordering apps, merchant dashboards, POS integrations and practical AI features for restaurant software teams, and websites with online ordering for restaurant owners.
 
@@ -27,7 +27,7 @@ These are Crave organization projects built with other contributors. **[StudyAI]
 - **[Nomly](https://mumar.dev/case/ai-ops-copilot?utm_source=github)** — [Crave's AI assistant for restaurant operators](https://nomly.ai/). In 2026, I built tools that read current restaurant menus and opening hours, with location checks and clear handling of missing information. Earlier, in 2025, I built its document and email retrieval.
 - **[Quick Food](https://mumar.dev/case/quick-food?utm_source=github)** — an ordering sandbox I lead, with hands-on checkout and cart engineering. It is not a client-results claim.
 
-Most professional source is private. The case studies explain my role and show public/demo captures or sanitized diagrams, with their evidence boundaries.
+Most professional source is private. The case studies explain my role, with sample-data captures and illustrations identified alongside the relevant work.
 
 `Next.js` · `React` · `TypeScript` · `Node.js` · `PostgreSQL` · `Flutter` · `React Native`
 
@@ -35,6 +35,6 @@ Most professional source is private. The case studies explain my role and show p
 
 We start with one feature, integration or fix and agree one testable milestone in writing. If the cause is unclear, a focused review comes first. Each milestone ends with relevant tests and a reviewable handoff. Remote from Pakistan (UTC+5), with availability and overlap agreed for each project.
 
-[Selected work](https://mumar.dev/work?utm_source=github) · [LinkedIn](https://www.linkedin.com/in/mumar20/) · [Discuss a project](https://mumar.dev/?utm_source=github#contact)
+[Selected work](https://mumar.dev/work?utm_source=github) · [LinkedIn](https://www.linkedin.com/in/mumar20/) · [Tell me about your project](https://mumar.dev/contact?utm_source=github)
 
 For non-restaurant websites and commerce, [Hassan leads that work](https://mumar.dev/business-websites?utm_source=github).
